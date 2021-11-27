@@ -1,5 +1,5 @@
 {
-  "name": "metamask-public-address",
+  "name": "sanity-plugin-metamask-public-address",
   "version": "1.0.0",
   "description": "A tool to display active metamask account public key",
   "main": "src/index.js",
