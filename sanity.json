@@ -1,0 +1,11 @@
+{
+  "paths": {
+    "source": "./src"
+  },
+  "parts": [
+    {
+      "implements": "part:@sanity/base/tool",
+      "path": "index.js"
+    }
+  ]
+}

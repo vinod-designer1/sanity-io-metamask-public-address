@@ -1,0 +1,21 @@
+{
+  "name": "metamask-public-address",
+  "version": "1.0.0",
+  "description": "A tool to display active metamask account public key",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@metamask/detect-provider": "1.2.0",
+    "@sanity/ui": "0.36.15"
+  },
+  "peerDependencies": {
+    "@sanity/base": "2.22.0",
+    "@sanity/core": "2.22.0",
+    "react": "17.0",
+    "react-dom": "17.0"
+  }
+}
